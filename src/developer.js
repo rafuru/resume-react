@@ -1,23 +1,21 @@
 const developer = {
     profile: {
-        name: 'Developer Name',
-        tagline: 'Full Stack Developer'
+        name: 'Rafael Carrillo Rosario',
+        tagline: 'Software Engineer'
     },
     contact: {
-        email: 'info@otfusion.org',
-        phone: '+12345787222',
+        email: 'rafaelcarrillo@protonmail.com',
         website: {
-            name: 'jmsalcido.dev',
-            url: 'https://jmsalcido.dev'
+            name: 'rafaelc.dev',
+            url: 'https://rafaelc.dev'
         },
-        linkedin: 'jmsalcido',
-        github: 'jmsalcido',
-        twitter: 'jmsalcido'
+        linkedin: 'rafaelcarrillo',
+        github: 'rafuru',
     },
     education: [{
         degree: 'Software Engineering',
-        school: 'School Name',
-        time: '2009-2013'
+        school: 'Sonora Institute of Technology (ITSON)',
+        time: '2010-2015'
     }],
     languages: [{
             name: 'Spanish',
@@ -29,11 +27,10 @@ const developer = {
         }
     ],
     interests: [
-        'Composing Music',
-        'Baking',
         'Cooking',
-        'Running',
-        'Podcasting',
+        'Books',
+        'Music',
+        'Technology',
         'Videogames',
         'Creating stuff'
     ]
